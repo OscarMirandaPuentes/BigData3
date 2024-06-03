@@ -7,7 +7,7 @@
         "manage_roles": false,
         "project_name": "bigdata3",
         "runtime": "python3.10",
-        "s3_bucket": "sakila-warehouse-1",
+        "s3_bucket": "sakila-warehouse-2",
         "apigateway_enabled": false,
         "events": [
             {
